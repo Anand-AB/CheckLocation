@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Check Location</string>
+
+    <!--Error strings-->
+    <string name="error_network">Something went wrong.</string>
+    <string name="text_no_data">No Data Available in Last 30 Minutes</string>
+
+    <string name="turn_on_gps">Gps is required, Turn On</string>
+    <string name="text_fetch_location">Fetching Location</string>
+
+    <string name="ok">OK</string>
+
+</resources>
